@@ -188,10 +188,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 
@@ -206,7 +202,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
+* Joe Santos Garcia and his amazing Udemy course! [Buidling Your Web Developer Portfolio..](https://www.udemy.com/course/build-your-web-developer-portfolio-and-brand-to-get-hired/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_81829991707_._ad_532193666393_._kw__._de_c_._dm__._pl__._ti_aud-1738475842996%3Adsa-1007766171312_._li_9012305_._pd__._&matchtype=&gclid=CjwKCAjw6eWnBhAKEiwADpnw9rsZxX1PnWpsUhMAdSf4bJoJUdwHaRV0GNUsNodB_BTittCBQZJmGxoC5CcQAvD_BwE#instructor-1)
 * []()
 * []()
 
